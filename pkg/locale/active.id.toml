@@ -1,0 +1,4 @@
+[HelloWorld]
+description = "testing hello world"
+hash = "sha1-15abda14424f290277074da8da070ba2656df0f0"
+other = "halo dunia!"
